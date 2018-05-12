@@ -1,0 +1,42 @@
+_repo: Society-Manners-and-Politics-in-the-United-StatesBeing-a-Series-of-Letters-on-North-America_45761
+_version: 0.1.0
+alternative_title: Lettres sur l'Amérique du Nord. English
+contributor:
+  translator:
+    agent_name: Bradford, T. G. (Thomas Gamaliel)
+    alias: Bradford, Thomas Gamaliel
+    birthdate: 1802
+    deathdate: 1887
+    gutenberg_agent_id: '43164'
+    url: http://www.gutenberg.org/2009/agents/43164
+covers:
+- cover_type: archival
+  image_path: 45761-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chevalier, Michel
+    alias: Chevalier, Michael
+    birthdate: 1806
+    deathdate: 1879
+    gutenberg_agent_id: '32060'
+    url: http://www.gutenberg.org/2009/agents/32060
+description: ''
+gutenberg_issued: '2014-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45761'
+  lccn: 01026758
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- To 1865'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Politics and government -- 1829-1837'
+- !lcsh 'Chevalier, Michel, 1806-1879 -- Correspondence'
+- !lcc 'E151'
+title: 'Society, Manners and Politics in the United States
+
+  Being a Series of Letters on North America'
+url: http://www.gutenberg.org/ebooks/45761
